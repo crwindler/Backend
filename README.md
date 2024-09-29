@@ -1,0 +1,1 @@
+This backend development practice implements core principles of REST API design, user authentication, and data management. Security is ensured with password hashing and environment variable management, while scalability and maintainability are maintained by using Express.js, MongoDB, and Mongoose.
